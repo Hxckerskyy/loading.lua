@@ -2,7 +2,7 @@
     local x = cam.ViewportSize.X
     local y = cam.ViewportSize.Y
     local newx = math.floor(x * 0.5)
-    local newy = math.floor(y * 0.5)
+    local newy = math.floor(y * 0.6)
 
     local changelogx = math.floor(x * 0.6)
     local changelogy = math.floor(y * 0.5)
